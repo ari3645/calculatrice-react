@@ -18,5 +18,16 @@ Assurez-vous d'avoir installé [Node.js](https://nodejs.org/) sur votre machine.
 
 1. **Cloner le dépôt Git :**
    ```bash
-   git clone <LIEN_DE_TON_DEPOT_ICI>
+   git clone https://github.com/ari3645/calculatrice-react.git
    cd calculatrice-react
+
+2. **Installer les dépendances :**
+    ```bash
+    npm install
+
+3. **Lancer le serveur Vite :**
+    ```bash
+    npm run dev
+
+4. **Accéder à l'application :**
+    Ouvrez votre navigateur et accédez à l'adresse locale indiquée dans votre terminal (généralement http://localhost:5173).
